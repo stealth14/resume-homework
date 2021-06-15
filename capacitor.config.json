@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "resume",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
